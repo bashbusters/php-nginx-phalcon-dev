@@ -1,0 +1,4 @@
+# PHP 7.3 + Nginx + Phalcon Dev Edition
+
+Base image provided by (WebDevOps)[https://github.com/webdevops/Dockerfile].
+Added YAML, GMP extensions and Phalcon.
